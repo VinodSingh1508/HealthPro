@@ -1,0 +1,79 @@
+{
+  "person_id": "5a9ea5c5-644a-4a23-91f4-c618065ab4e4",
+  "date": "2026-09-18",
+  "foods": [
+    {
+      "id": "roti_wheat",
+      "name": "Roti / chapati (whole wheat)",
+      "source": "starter",
+      "form": "cooked",
+      "health_notes": "Whole wheat contributes fiber, iron, and B vitamins versus refined flour.",
+      "quantity": 1.0,
+      "unit": "katori",
+      "grams": 150.0,
+      "nutrients": {
+        "energy_kcal": 445.5,
+        "protein_g": 14.4,
+        "carb_g": 76.5,
+        "fat_g": 11.25,
+        "fiber_g": 10.5,
+        "sodium_mg": 447.0,
+        "potassium_mg": 249.0,
+        "calcium_mg": 60.0,
+        "iron_mg": 4.05,
+        "magnesium_mg": 66.0,
+        "zinc_mg": 1.8,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 42.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      },
+      "per_100g": {
+        "energy_kcal": 297.0,
+        "protein_g": 9.6,
+        "carb_g": 51.0,
+        "fat_g": 7.5,
+        "fiber_g": 7.0,
+        "sodium_mg": 298.0,
+        "potassium_mg": 166.0,
+        "calcium_mg": 40.0,
+        "iron_mg": 2.7,
+        "magnesium_mg": 44.0,
+        "zinc_mg": 1.2,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 28.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "activity": "walk",
+      "minutes": 30.0,
+      "kcal": 101.5
+    }
+  ],
+  "notes": "",
+  "totals": {
+    "energy_kcal": 445.5,
+    "protein_g": 14.4,
+    "carb_g": 76.5,
+    "fat_g": 11.25,
+    "fiber_g": 10.5,
+    "sodium_mg": 447.0,
+    "potassium_mg": 249.0,
+    "calcium_mg": 60.0,
+    "iron_mg": 4.05,
+    "magnesium_mg": 66.0,
+    "zinc_mg": 1.8,
+    "vitamin_a_ug": 0.0,
+    "vitamin_c_mg": 0.0,
+    "folate_ug": 42.0,
+    "vitamin_b12_ug": 0.0,
+    "vitamin_d_ug": 0.0
+  },
+  "exercise_kcal": 101.5
+}

@@ -1,0 +1,2942 @@
+{
+  "search:quinoa:5": [
+    {
+      "id": "usda-168917",
+      "fdcId": 168917,
+      "name": "Quinoa, cooked",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168874",
+      "fdcId": 168874,
+      "name": "Quinoa, uncooked",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2512372",
+      "fdcId": 2512372,
+      "name": "Flour, quinoa",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2708401",
+      "fdcId": 2708401,
+      "name": "Quinoa, fat added",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708400",
+      "fdcId": 2708400,
+      "name": "Quinoa, no added fat",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:kfc:5": [
+    {
+      "id": "usda-170339",
+      "fdcId": 170339,
+      "name": "KFC, biscuit",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170340",
+      "fdcId": 170340,
+      "name": "KFC, Coleslaw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170737",
+      "fdcId": 170737,
+      "name": "KFC, Popcorn Chicken",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170341",
+      "fdcId": 170341,
+      "name": "KFC, Crispy Chicken Strips",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170343",
+      "fdcId": 170343,
+      "name": "KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:ragi roti:5": [
+    {
+      "id": "usda-2707713",
+      "fdcId": 2707713,
+      "name": "Bread, chappatti or roti",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-171844",
+      "fdcId": 171844,
+      "name": "Bread, chapati or roti, plain, commercially prepared",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-174075",
+      "fdcId": 174075,
+      "name": "Bread, chapati or roti, whole wheat, commercially prepared, frozen",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:ragi flour:3": [
+    {
+      "id": "usda-170684",
+      "fdcId": 170684,
+      "name": "Arrowroot flour",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-173755",
+      "fdcId": 173755,
+      "name": "Carob flour",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2003586",
+      "fdcId": 2003586,
+      "name": "Flour, 00",
+      "source": "usda",
+      "dataType": "Foundation"
+    }
+  ],
+  "search:onion:3": [
+    {
+      "id": "usda-2709795",
+      "fdcId": 2709795,
+      "name": "Onions, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707633",
+      "fdcId": 2707633,
+      "name": "Bread, onion",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170000",
+      "fdcId": 170000,
+      "name": "Onions, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:curd:3": [
+    {
+      "id": "usda-2707435",
+      "fdcId": 2707435,
+      "name": "Soybean curd",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707437",
+      "fdcId": 2707437,
+      "name": "Soybean curd cheese",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-169083",
+      "fdcId": 169083,
+      "name": "Soybean, curd cheese",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:oil:3": [
+    {
+      "id": "usda-748278",
+      "fdcId": 748278,
+      "name": "Oil, canola",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-172336",
+      "fdcId": 172336,
+      "name": "Oil, canola",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710183",
+      "fdcId": 2710183,
+      "name": "Corn oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:ginger:3": [
+    {
+      "id": "usda-2710507",
+      "fdcId": 2710507,
+      "name": "Tea, ginger",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710082",
+      "fdcId": 2710082,
+      "name": "Ginger root, pickled",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710659",
+      "fdcId": 2710659,
+      "name": "Whiskey and ginger ale",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:tomato:3": [
+    {
+      "id": "usda-2709719",
+      "fdcId": 2709719,
+      "name": "Tomatoes, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709308",
+      "fdcId": 2709308,
+      "name": "Guacamole with tomatoes",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709757",
+      "fdcId": 2709757,
+      "name": "Soup, tomato",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:red onion:3": [
+    {
+      "id": "usda-790577",
+      "fdcId": 790577,
+      "name": "Onions, red, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2709795",
+      "fdcId": 2709795,
+      "name": "Onions, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707633",
+      "fdcId": 2707633,
+      "name": "Bread, onion",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:black pepper powder:3": [
+    {
+      "id": "usda-170931",
+      "fdcId": 170931,
+      "name": "Spices, pepper, black",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-167806",
+      "fdcId": 167806,
+      "name": "Baobab powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169656",
+      "fdcId": 169656,
+      "name": "Sugars, powdered",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:green bell pepper (capsicum):3": [
+    {
+      "id": "usda-2258588",
+      "fdcId": 2258588,
+      "name": "Peppers, bell, green, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2258591",
+      "fdcId": 2258591,
+      "name": "Peppers, bell, orange, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2258590",
+      "fdcId": 2258590,
+      "name": "Peppers, bell, red, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    }
+  ],
+  "search:fresh coriander leaves (cilantro):3": [
+    {
+      "id": "usda-169997",
+      "fdcId": 169997,
+      "name": "Coriander (cilantro) leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170922",
+      "fdcId": 170922,
+      "name": "Spices, coriander seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170921",
+      "fdcId": 170921,
+      "name": "Spices, coriander leaf, dried",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:black salt (kala namak):3": [
+    {
+      "id": "usda-175237",
+      "fdcId": 175237,
+      "name": "Beans, black, mature seeds, cooked, boiled, with salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-175239",
+      "fdcId": 175239,
+      "name": "Beans, black turtle, mature seeds, cooked, boiled, with salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-173735",
+      "fdcId": 173735,
+      "name": "Beans, black, mature seeds, cooked, boiled, without salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:plain yogurt (dahi):2": [
+    {
+      "id": "usda-2647437",
+      "fdcId": 2647437,
+      "name": "Yogurt, plain, nonfat",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2705464",
+      "fdcId": 2705464,
+      "name": "Baby Toddler yogurt, plain",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:chicken breast:2": [
+    {
+      "id": "usda-2759004",
+      "fdcId": 2759004,
+      "name": "Lunchmeat, chicken breast, sliced",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2705964",
+      "fdcId": 2705964,
+      "name": "Chicken breast, rotisserie, skin not eaten",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:chicken:2": [
+    {
+      "id": "usda-2706087",
+      "fdcId": 2706087,
+      "name": "Chicken, chicken roll, roasted",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706443",
+      "fdcId": 2706443,
+      "name": "Orange chicken",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:mayonnaise:2": [
+    {
+      "id": "usda-2710204",
+      "fdcId": 2710204,
+      "name": "Mayonnaise, regular",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710205",
+      "fdcId": 2710205,
+      "name": "Vegan mayonnaise",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:cumin:2": [
+    {
+      "id": "usda-170923",
+      "fdcId": 170923,
+      "name": "Spices, cumin seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:cooking oil:2": [
+    {
+      "id": "usda-2709559",
+      "fdcId": 2709559,
+      "name": "Plantain, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709845",
+      "fdcId": 2709845,
+      "name": "Asparagus, canned, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:mayonnaise:3": [
+    {
+      "id": "usda-2710204",
+      "fdcId": 2710204,
+      "name": "Mayonnaise, regular",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710205",
+      "fdcId": 2710205,
+      "name": "Vegan mayonnaise",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710220",
+      "fdcId": 2710220,
+      "name": "Mayonnaise, light",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:cooking oil:3": [
+    {
+      "id": "usda-2709559",
+      "fdcId": 2709559,
+      "name": "Plantain, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709845",
+      "fdcId": 2709845,
+      "name": "Asparagus, canned, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709841",
+      "fdcId": 2709841,
+      "name": "Asparagus, fresh, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:roasted cumin powder:3": [
+    {
+      "id": "usda-170923",
+      "fdcId": 170923,
+      "name": "Spices, cumin seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-167806",
+      "fdcId": 167806,
+      "name": "Baobab powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169656",
+      "fdcId": 169656,
+      "name": "Sugars, powdered",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:boneless chicken breast:3": [
+    {
+      "id": "usda-2646170",
+      "fdcId": 2646170,
+      "name": "Chicken, breast, boneless, skinless, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-171077",
+      "fdcId": 171077,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171140",
+      "fdcId": 171140,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:finely chopped onion:3": [
+    {
+      "id": "usda-170410",
+      "fdcId": 170410,
+      "name": "Onions, frozen, chopped, unprepared",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2706875",
+      "fdcId": 2706875,
+      "name": "Livers, chicken, chopped, with eggs and onion",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170101",
+      "fdcId": 170101,
+      "name": "Onions, frozen, chopped, cooked, boiled, drained, with salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:cooking oil:5": [
+    {
+      "id": "usda-2709559",
+      "fdcId": 2709559,
+      "name": "Plantain, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709845",
+      "fdcId": 2709845,
+      "name": "Asparagus, canned, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709841",
+      "fdcId": 2709841,
+      "name": "Asparagus, fresh, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709843",
+      "fdcId": 2709843,
+      "name": "Asparagus, frozen, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709650",
+      "fdcId": 2709650,
+      "name": "Broccoli, fresh, cooked with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:boneless chicken breast:5": [
+    {
+      "id": "usda-2646170",
+      "fdcId": 2646170,
+      "name": "Chicken, breast, boneless, skinless, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-171077",
+      "fdcId": 171077,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171140",
+      "fdcId": 171140,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-331960",
+      "fdcId": 331960,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-171534",
+      "fdcId": 171534,
+      "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:mayonnaise:5": [
+    {
+      "id": "usda-2710204",
+      "fdcId": 2710204,
+      "name": "Mayonnaise, regular",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710205",
+      "fdcId": 2710205,
+      "name": "Vegan mayonnaise",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710220",
+      "fdcId": 2710220,
+      "name": "Mayonnaise, light",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2758986",
+      "fdcId": 2758986,
+      "name": "Mayonnaise, Regular",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-168112",
+      "fdcId": 168112,
+      "name": "Salad dressing, mayonnaise and mayonnaise-type, low calorie",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:roasted cumin powder:5": [
+    {
+      "id": "usda-170923",
+      "fdcId": 170923,
+      "name": "Spices, cumin seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-167806",
+      "fdcId": 167806,
+      "name": "Baobab powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169656",
+      "fdcId": 169656,
+      "name": "Sugars, powdered",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170461",
+      "fdcId": 170461,
+      "name": "Tomato powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710732",
+      "fdcId": 2710732,
+      "name": "Nutritional powder mix (EAS Soy Protein Powder)",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:oil:5": [
+    {
+      "id": "usda-748278",
+      "fdcId": 748278,
+      "name": "Oil, canola",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-172336",
+      "fdcId": 172336,
+      "name": "Oil, canola",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710183",
+      "fdcId": 2710183,
+      "name": "Corn oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710181",
+      "fdcId": 2710181,
+      "name": "Almond oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710188",
+      "fdcId": 2710188,
+      "name": "Canola oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:cumin:5": [
+    {
+      "id": "usda-170923",
+      "fdcId": 170923,
+      "name": "Spices, cumin seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:finely chopped onion:5": [
+    {
+      "id": "usda-170410",
+      "fdcId": 170410,
+      "name": "Onions, frozen, chopped, unprepared",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2706875",
+      "fdcId": 2706875,
+      "name": "Livers, chicken, chopped, with eggs and onion",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170101",
+      "fdcId": 170101,
+      "name": "Onions, frozen, chopped, cooked, boiled, drained, with salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170411",
+      "fdcId": 170411,
+      "name": "Onions, frozen, chopped, cooked, boiled, drained, without salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705906",
+      "fdcId": 2705906,
+      "name": "Lamb, chop",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:chicken breast:5": [
+    {
+      "id": "usda-2759004",
+      "fdcId": 2759004,
+      "name": "Lunchmeat, chicken breast, sliced",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2705964",
+      "fdcId": 2705964,
+      "name": "Chicken breast, rotisserie, skin not eaten",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-171515",
+      "fdcId": 171515,
+      "name": "Chicken breast tenders, breaded, uncooked",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-174608",
+      "fdcId": 174608,
+      "name": "Chicken breast, roll, oven-roasted",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705963",
+      "fdcId": 2705963,
+      "name": "Chicken breast, rotisserie, skin eaten",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:onion:5": [
+    {
+      "id": "usda-2709795",
+      "fdcId": 2709795,
+      "name": "Onions, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707633",
+      "fdcId": 2707633,
+      "name": "Bread, onion",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170000",
+      "fdcId": 170000,
+      "name": "Onions, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2709794",
+      "fdcId": 2709794,
+      "name": "Onions, green, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709953",
+      "fdcId": 2709953,
+      "name": "Onions, green, cooked",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:black pepper powder:5": [
+    {
+      "id": "usda-170931",
+      "fdcId": 170931,
+      "name": "Spices, pepper, black",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-167806",
+      "fdcId": 167806,
+      "name": "Baobab powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169656",
+      "fdcId": 169656,
+      "name": "Sugars, powdered",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170461",
+      "fdcId": 170461,
+      "name": "Tomato powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710732",
+      "fdcId": 2710732,
+      "name": "Nutritional powder mix (EAS Soy Protein Powder)",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:black pepper:5": [
+    {
+      "id": "usda-170931",
+      "fdcId": 170931,
+      "name": "Spices, pepper, black",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710672",
+      "fdcId": 2710672,
+      "name": "Black Russian",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707764",
+      "fdcId": 2707764,
+      "name": "Bread, black",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710090",
+      "fdcId": 2710090,
+      "name": "Olives, black",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706747",
+      "fdcId": 2706747,
+      "name": "Pepper steak",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:black:5": [
+    {
+      "id": "usda-2710672",
+      "fdcId": 2710672,
+      "name": "Black Russian",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707764",
+      "fdcId": 2707764,
+      "name": "Bread, black",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710090",
+      "fdcId": 2710090,
+      "name": "Olives, black",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707395",
+      "fdcId": 2707395,
+      "name": "Black bean salad",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707404",
+      "fdcId": 2707404,
+      "name": "Black bean sauce",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:lemon juice:5": [
+    {
+      "id": "usda-167747",
+      "fdcId": 167747,
+      "name": "Lemon juice, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-167802",
+      "fdcId": 167802,
+      "name": "Lemon juice from concentrate, bottled, REAL LEMON",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2709182",
+      "fdcId": 2709182,
+      "name": "Lemon juice, 100%, canned or bottled",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-174959",
+      "fdcId": 174959,
+      "name": "Cookies, ladyfingers, with lemon juice and rind",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2709181",
+      "fdcId": 2709181,
+      "name": "Lemon juice, 100%, freshly squeezed",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:lemon:5": [
+    {
+      "id": "usda-2709168",
+      "fdcId": 2709168,
+      "name": "Lemon, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708000",
+      "fdcId": 2708000,
+      "name": "Pie, lemon",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708014",
+      "fdcId": 2708014,
+      "name": "Pie, lemon meringue",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-167802",
+      "fdcId": 167802,
+      "name": "Lemon juice from concentrate, bottled, REAL LEMON",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2707879",
+      "fdcId": 2707879,
+      "name": "Cake or cupcake, lemon",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:juice:5": [
+    {
+      "id": "usda-2709317",
+      "fdcId": 2709317,
+      "name": "Cranberry juice blend, 100% juice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709316",
+      "fdcId": 2709316,
+      "name": "Fruit juice blend, 100% juice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709194",
+      "fdcId": 2709194,
+      "name": "Fruit juice blend, citrus, 100% juice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709318",
+      "fdcId": 2709318,
+      "name": "Cranberry juice blend, 100% juice, with calcium added",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709682",
+      "fdcId": 2709682,
+      "name": "Beet juice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:pepper:5": [
+    {
+      "id": "usda-2706747",
+      "fdcId": 2706747,
+      "name": "Pepper steak",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710096",
+      "fdcId": 2710096,
+      "name": "Peppers, jalapenos",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709798",
+      "fdcId": 2709798,
+      "name": "Peppers, hot, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709978",
+      "fdcId": 2709978,
+      "name": "Peppers, hot, cooked",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709977",
+      "fdcId": 2709977,
+      "name": "Peppers, red, cooked",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:chicken:5": [
+    {
+      "id": "usda-2706087",
+      "fdcId": 2706087,
+      "name": "Chicken, chicken roll, roasted",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706443",
+      "fdcId": 2706443,
+      "name": "Orange chicken",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706538",
+      "fdcId": 2706538,
+      "name": "Biryani with chicken",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707134",
+      "fdcId": 2707134,
+      "name": "Soup, chicken",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706085",
+      "fdcId": 2706085,
+      "name": "Chicken feet",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:breast:5": [
+    {
+      "id": "usda-2759004",
+      "fdcId": 2759004,
+      "name": "Lunchmeat, chicken breast, sliced",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-172941",
+      "fdcId": 172941,
+      "name": "Turkey breast, sliced, prepackaged",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171515",
+      "fdcId": 171515,
+      "name": "Chicken breast tenders, breaded, uncooked",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-174608",
+      "fdcId": 174608,
+      "name": "Chicken breast, roll, oven-roasted",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705963",
+      "fdcId": 2705963,
+      "name": "Chicken breast, rotisserie, skin eaten",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:fresh coriander leaves:5": [
+    {
+      "id": "usda-169997",
+      "fdcId": 169997,
+      "name": "Coriander (cilantro) leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170922",
+      "fdcId": 170922,
+      "name": "Spices, coriander seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170921",
+      "fdcId": 170921,
+      "name": "Spices, coriander leaf, dried",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168416",
+      "fdcId": 168416,
+      "name": "Drumstick leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168385",
+      "fdcId": 168385,
+      "name": "Amaranth leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:coriander leaves:5": [
+    {
+      "id": "usda-169997",
+      "fdcId": 169997,
+      "name": "Coriander (cilantro) leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170922",
+      "fdcId": 170922,
+      "name": "Spices, coriander seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170921",
+      "fdcId": 170921,
+      "name": "Spices, coriander leaf, dried",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168416",
+      "fdcId": 168416,
+      "name": "Drumstick leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168385",
+      "fdcId": 168385,
+      "name": "Amaranth leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:green chillies, finely chopped:5": [
+    {
+      "id": "usda-170022",
+      "fdcId": 170022,
+      "name": "Peppers, sweet, green, frozen, chopped, unprepared",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705906",
+      "fdcId": 2705906,
+      "name": "Lamb, chop",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170023",
+      "fdcId": 170023,
+      "name": "Peppers, sweet, green, frozen, chopped, boiled, drained, without salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170516",
+      "fdcId": 170516,
+      "name": "Peppers, sweet, green, frozen, chopped, cooked, boiled, drained, with salt",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705909",
+      "fdcId": 2705909,
+      "name": "Veal, chop",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:green chillies:5": [
+    {
+      "id": "usda-2710089",
+      "fdcId": 2710089,
+      "name": "Olives, green",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710040",
+      "fdcId": 2710040,
+      "name": "Green bean casserole",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709725",
+      "fdcId": 2709725,
+      "name": "Fried green tomatoes",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709571",
+      "fdcId": 2709571,
+      "name": "Beet greens, cooked",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709570",
+      "fdcId": 2709570,
+      "name": "Beet greens, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:green:5": [
+    {
+      "id": "usda-2710089",
+      "fdcId": 2710089,
+      "name": "Olives, green",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710040",
+      "fdcId": 2710040,
+      "name": "Green bean casserole",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709725",
+      "fdcId": 2709725,
+      "name": "Fried green tomatoes",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709571",
+      "fdcId": 2709571,
+      "name": "Beet greens, cooked",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709570",
+      "fdcId": 2709570,
+      "name": "Beet greens, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2709559": {
+    "id": "usda-2709559",
+    "name": "Plantain, cooked with oil",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 144.0,
+      "protein_g": 1.26,
+      "carb_g": 30.9,
+      "fat_g": 3.24,
+      "fiber_g": 1.6,
+      "sodium_mg": 116.0,
+      "potassium_mg": 471.0,
+      "calcium_mg": 3.0,
+      "iron_mg": 0.54,
+      "magnesium_mg": 35.0,
+      "zinc_mg": 0.18,
+      "vitamin_a_ug": 52.0,
+      "vitamin_c_mg": 15.1,
+      "folate_ug": 18.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:748278": {
+    "id": "usda-748278",
+    "name": "Oil, canola",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 850.5,
+      "protein_g": 0.0,
+      "carb_g": 0.0,
+      "fat_g": 94.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 0.0,
+      "potassium_mg": 0.0,
+      "calcium_mg": 0.0,
+      "iron_mg": 0.0,
+      "magnesium_mg": 0.0,
+      "zinc_mg": 0.0,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 0.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:2646170": {
+    "id": "usda-2646170",
+    "name": "Chicken, breast, boneless, skinless, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 106.034,
+      "protein_g": 22.525,
+      "carb_g": 0.0,
+      "fat_g": 1.934,
+      "fiber_g": 0.0,
+      "sodium_mg": 65.75,
+      "potassium_mg": 330.1,
+      "calcium_mg": 3.939,
+      "iron_mg": 0.3543,
+      "magnesium_mg": 26.2,
+      "zinc_mg": 0.6545,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 0.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:167747": {
+    "id": "usda-167747",
+    "name": "Lemon juice, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 22.0,
+      "protein_g": 0.35,
+      "carb_g": 6.9,
+      "fat_g": 0.24,
+      "fiber_g": 0.3,
+      "sodium_mg": 1.0,
+      "potassium_mg": 103.0,
+      "calcium_mg": 6.0,
+      "iron_mg": 0.08,
+      "magnesium_mg": 6.0,
+      "zinc_mg": 0.05,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 38.7,
+      "folate_ug": 20.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:170931": {
+    "id": "usda-170931",
+    "name": "Spices, pepper, black",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 251.0,
+      "protein_g": 10.39,
+      "carb_g": 63.95,
+      "fat_g": 3.26,
+      "fiber_g": 25.3,
+      "sodium_mg": 20.0,
+      "potassium_mg": 1329.0,
+      "calcium_mg": 443.0,
+      "iron_mg": 9.71,
+      "magnesium_mg": 171.0,
+      "zinc_mg": 1.19,
+      "vitamin_a_ug": 27.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 17.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:170410": {
+    "id": "usda-170410",
+    "name": "Onions, frozen, chopped, unprepared",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 29.0,
+      "protein_g": 0.79,
+      "carb_g": 6.82,
+      "fat_g": 0.1,
+      "fiber_g": 1.8,
+      "sodium_mg": 12.0,
+      "potassium_mg": 124.0,
+      "calcium_mg": 17.0,
+      "iron_mg": 0.33,
+      "magnesium_mg": 7.0,
+      "zinc_mg": 0.07,
+      "vitamin_a_ug": 2.0,
+      "vitamin_c_mg": 3.3,
+      "folate_ug": 17.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:2709795": {
+    "id": "usda-2709795",
+    "name": "Onions, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 38.0,
+      "protein_g": 0.86,
+      "carb_g": 8.46,
+      "fat_g": 0.08,
+      "fiber_g": 1.7,
+      "sodium_mg": 1.0,
+      "potassium_mg": 171.0,
+      "calcium_mg": 17.0,
+      "iron_mg": 0.24,
+      "magnesium_mg": 9.0,
+      "zinc_mg": 0.17,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 8.2,
+      "folate_ug": 19.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:2710204": {
+    "id": "usda-2710204",
+    "name": "Mayonnaise, regular",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 680.0,
+      "protein_g": 0.96,
+      "carb_g": 0.57,
+      "fat_g": 74.8,
+      "fiber_g": 0.0,
+      "sodium_mg": 635.0,
+      "potassium_mg": 20.0,
+      "calcium_mg": 8.0,
+      "iron_mg": 0.21,
+      "magnesium_mg": 1.0,
+      "zinc_mg": 0.15,
+      "vitamin_a_ug": 16.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 5.0,
+      "vitamin_b12_ug": 0.12,
+      "vitamin_d_ug": 0.2
+    }
+  },
+  "food:169997": {
+    "id": "usda-169997",
+    "name": "Coriander (cilantro) leaves, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 23.0,
+      "protein_g": 2.13,
+      "carb_g": 3.67,
+      "fat_g": 0.52,
+      "fiber_g": 2.8,
+      "sodium_mg": 46.0,
+      "potassium_mg": 521.0,
+      "calcium_mg": 67.0,
+      "iron_mg": 1.77,
+      "magnesium_mg": 26.0,
+      "zinc_mg": 0.5,
+      "vitamin_a_ug": 337.0,
+      "vitamin_c_mg": 27.0,
+      "folate_ug": 62.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:170022": {
+    "id": "usda-170022",
+    "name": "Peppers, sweet, green, frozen, chopped, unprepared",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 20.0,
+      "protein_g": 1.08,
+      "carb_g": 4.45,
+      "fat_g": 0.21,
+      "fiber_g": 1.6,
+      "sodium_mg": 5.0,
+      "potassium_mg": 91.0,
+      "calcium_mg": 9.0,
+      "iron_mg": 0.62,
+      "magnesium_mg": 8.0,
+      "zinc_mg": 0.06,
+      "vitamin_a_ug": 18.0,
+      "vitamin_c_mg": 58.7,
+      "folate_ug": 14.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:2710089": {
+    "id": "usda-2710089",
+    "name": "Olives, green",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 145.0,
+      "protein_g": 1.03,
+      "carb_g": 3.84,
+      "fat_g": 15.3,
+      "fiber_g": 3.3,
+      "sodium_mg": 1560.0,
+      "potassium_mg": 42.0,
+      "calcium_mg": 52.0,
+      "iron_mg": 0.49,
+      "magnesium_mg": 11.0,
+      "zinc_mg": 0.04,
+      "vitamin_a_ug": 20.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 3.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:2710040": {
+    "id": "usda-2710040",
+    "name": "Green bean casserole",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 56.0,
+      "protein_g": 1.96,
+      "carb_g": 7.05,
+      "fat_g": 2.21,
+      "fiber_g": 1.9,
+      "sodium_mg": 316.0,
+      "potassium_mg": 203.0,
+      "calcium_mg": 42.0,
+      "iron_mg": 0.43,
+      "magnesium_mg": 18.0,
+      "zinc_mg": 0.28,
+      "vitamin_a_ug": 26.0,
+      "vitamin_c_mg": 5.8,
+      "folate_ug": 17.0,
+      "vitamin_b12_ug": 0.04,
+      "vitamin_d_ug": 0.2
+    }
+  },
+  "search:ginger-garlic paste:5": [
+    {
+      "id": "usda-2707535",
+      "fdcId": 2707535,
+      "name": "Almond paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710307",
+      "fdcId": 2710307,
+      "name": "Guava paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710103",
+      "fdcId": 2710103,
+      "name": "Wasabi paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710309",
+      "fdcId": 2710309,
+      "name": "Bean paste, sweetened",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706155",
+      "fdcId": 2706155,
+      "name": "Liver, paste or pate",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2707535": {
+    "id": "usda-2707535",
+    "name": "Almond paste",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 458.0,
+      "protein_g": 9.0,
+      "carb_g": 47.8,
+      "fat_g": 27.7,
+      "fiber_g": 4.8,
+      "sodium_mg": 9.0,
+      "potassium_mg": 314.0,
+      "calcium_mg": 172.0,
+      "iron_mg": 1.6,
+      "magnesium_mg": 130.0,
+      "zinc_mg": 1.48,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.1,
+      "folate_ug": 73.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:ginger garlic paste:5": [
+    {
+      "id": "usda-2707535",
+      "fdcId": 2707535,
+      "name": "Almond paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710307",
+      "fdcId": 2710307,
+      "name": "Guava paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710103",
+      "fdcId": 2710103,
+      "name": "Wasabi paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710309",
+      "fdcId": 2710309,
+      "name": "Bean paste, sweetened",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706155",
+      "fdcId": 2706155,
+      "name": "Liver, paste or pate",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:ginger garlic:5": [
+    {
+      "id": "usda-2710507",
+      "fdcId": 2710507,
+      "name": "Tea, ginger",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710082",
+      "fdcId": 2710082,
+      "name": "Ginger root, pickled",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710659",
+      "fdcId": 2710659,
+      "name": "Whiskey and ginger ale",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-169231",
+      "fdcId": 169231,
+      "name": "Ginger root, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170926",
+      "fdcId": 170926,
+      "name": "Spices, ginger, ground",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "food:2710507": {
+    "id": "usda-2710507",
+    "name": "Tea, ginger",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 1.0,
+      "protein_g": 0.02,
+      "carb_g": 0.18,
+      "fat_g": 0.01,
+      "fiber_g": 0.0,
+      "sodium_mg": 4.0,
+      "potassium_mg": 4.0,
+      "calcium_mg": 3.0,
+      "iron_mg": 0.01,
+      "magnesium_mg": 1.0,
+      "zinc_mg": 0.01,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 0.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:garlic paste:5": [
+    {
+      "id": "usda-2707535",
+      "fdcId": 2707535,
+      "name": "Almond paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710307",
+      "fdcId": 2710307,
+      "name": "Guava paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710103",
+      "fdcId": 2710103,
+      "name": "Wasabi paste",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710309",
+      "fdcId": 2710309,
+      "name": "Bean paste, sweetened",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706155",
+      "fdcId": 2706155,
+      "name": "Liver, paste or pate",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:ginger:5": [
+    {
+      "id": "usda-2710507",
+      "fdcId": 2710507,
+      "name": "Tea, ginger",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710082",
+      "fdcId": 2710082,
+      "name": "Ginger root, pickled",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710659",
+      "fdcId": 2710659,
+      "name": "Whiskey and ginger ale",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-169231",
+      "fdcId": 169231,
+      "name": "Ginger root, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170926",
+      "fdcId": 170926,
+      "name": "Spices, ginger, ground",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "food:2710082": {
+    "id": "usda-2710082",
+    "name": "Ginger root, pickled",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 20.0,
+      "protein_g": 0.33,
+      "carb_g": 4.83,
+      "fat_g": 0.1,
+      "fiber_g": 2.6,
+      "sodium_mg": 906.0,
+      "potassium_mg": 36.0,
+      "calcium_mg": 74.0,
+      "iron_mg": 0.28,
+      "magnesium_mg": 4.0,
+      "zinc_mg": 0.04,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 1.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:curry leaves:5": [
+    {
+      "id": "usda-168416",
+      "fdcId": 168416,
+      "name": "Drumstick leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168385",
+      "fdcId": 168385,
+      "name": "Amaranth leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169329",
+      "fdcId": 169329,
+      "name": "Broccoli, leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-168491",
+      "fdcId": 168491,
+      "name": "Chrysanthemum leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-169399",
+      "fdcId": 169399,
+      "name": "Fireweed, leaves, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "food:168416": {
+    "id": "usda-168416",
+    "name": "Drumstick leaves, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 64.0,
+      "protein_g": 9.4,
+      "carb_g": 8.28,
+      "fat_g": 1.4,
+      "fiber_g": 2.0,
+      "sodium_mg": 9.0,
+      "potassium_mg": 337.0,
+      "calcium_mg": 185.0,
+      "iron_mg": 4.0,
+      "magnesium_mg": 42.0,
+      "zinc_mg": 0.6,
+      "vitamin_a_ug": 378.0,
+      "vitamin_c_mg": 51.7,
+      "folate_ug": 40.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:curry:5": [
+    {
+      "id": "usda-2706388",
+      "fdcId": 2706388,
+      "name": "Beef curry",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706437",
+      "fdcId": 2706437,
+      "name": "Chicken curry",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710178",
+      "fdcId": 2710178,
+      "name": "Curry sauce",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2706460",
+      "fdcId": 2706460,
+      "name": "Fish curry",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2707431",
+      "fdcId": 2707431,
+      "name": "Lentil curry",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2710178": {
+    "id": "usda-2710178",
+    "name": "Curry sauce",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 95.0,
+      "protein_g": 1.39,
+      "carb_g": 5.03,
+      "fat_g": 8.22,
+      "fiber_g": 1.4,
+      "sodium_mg": 383.0,
+      "potassium_mg": 268.0,
+      "calcium_mg": 21.0,
+      "iron_mg": 0.89,
+      "magnesium_mg": 15.0,
+      "zinc_mg": 0.25,
+      "vitamin_a_ug": 21.0,
+      "vitamin_c_mg": 5.8,
+      "folate_ug": 9.0,
+      "vitamin_b12_ug": 0.03,
+      "vitamin_d_ug": 0.1
+    }
+  },
+  "search:chopped tomatoes:5": [
+    {
+      "id": "usda-2705906",
+      "fdcId": 2705906,
+      "name": "Lamb, chop",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2705909",
+      "fdcId": 2705909,
+      "name": "Veal, chop",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-171626",
+      "fdcId": 171626,
+      "name": "Ham, chopped, canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171627",
+      "fdcId": 171627,
+      "name": "Ham, chopped, not canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2705872",
+      "fdcId": 2705872,
+      "name": "Pork, chop, stuffed",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:171626": {
+    "id": "usda-171626",
+    "name": "Ham, chopped, canned",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 239.0,
+      "protein_g": 16.06,
+      "carb_g": 0.26,
+      "fat_g": 18.83,
+      "fiber_g": 0.0,
+      "sodium_mg": 1280.0,
+      "potassium_mg": 284.0,
+      "calcium_mg": 7.0,
+      "iron_mg": 0.95,
+      "magnesium_mg": 13.0,
+      "zinc_mg": 1.83,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 2.0,
+      "folate_ug": 1.0,
+      "vitamin_b12_ug": 0.7,
+      "vitamin_d_ug": 0.6
+    }
+  },
+  "search:tomatoes:5": [
+    {
+      "id": "usda-2709719",
+      "fdcId": 2709719,
+      "name": "Tomatoes, raw",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709308",
+      "fdcId": 2709308,
+      "name": "Guacamole with tomatoes",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709757",
+      "fdcId": 2709757,
+      "name": "Soup, tomato",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-170461",
+      "fdcId": 170461,
+      "name": "Tomato powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-1999634",
+      "fdcId": 1999634,
+      "name": "Tomato, roma",
+      "source": "usda",
+      "dataType": "Foundation"
+    }
+  ],
+  "food:2709719": {
+    "id": "usda-2709719",
+    "name": "Tomatoes, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 20.0,
+      "protein_g": 0.82,
+      "carb_g": 4.04,
+      "fat_g": 0.31,
+      "fiber_g": 1.2,
+      "sodium_mg": 4.0,
+      "potassium_mg": 226.0,
+      "calcium_mg": 10.0,
+      "iron_mg": 0.22,
+      "magnesium_mg": 10.0,
+      "zinc_mg": 0.15,
+      "vitamin_a_ug": 32.0,
+      "vitamin_c_mg": 16.3,
+      "folate_ug": 13.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:basmati rice, raw:5": [
+    {
+      "id": "usda-169726",
+      "fdcId": 169726,
+      "name": "Wild rice, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2710825",
+      "fdcId": 2710825,
+      "name": "Rice, black, unenriched, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2710821",
+      "fdcId": 2710821,
+      "name": "Wild rice, dry, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2710838",
+      "fdcId": 2710838,
+      "name": "Rice, red, unenriched, dry, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2512380",
+      "fdcId": 2512380,
+      "name": "Rice, brown, long grain, unenriched, raw",
+      "source": "usda",
+      "dataType": "Foundation"
+    }
+  ],
+  "food:169726": {
+    "id": "usda-169726",
+    "name": "Wild rice, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 357.0,
+      "protein_g": 14.73,
+      "carb_g": 74.9,
+      "fat_g": 1.08,
+      "fiber_g": 6.2,
+      "sodium_mg": 7.0,
+      "potassium_mg": 427.0,
+      "calcium_mg": 21.0,
+      "iron_mg": 1.96,
+      "magnesium_mg": 177.0,
+      "zinc_mg": 5.96,
+      "vitamin_a_ug": 1.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 95.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:basmati rice:5": [
+    {
+      "id": "usda-2709078",
+      "fdcId": 2709078,
+      "name": "Dirty rice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709089",
+      "fdcId": 2709089,
+      "name": "Rice dressing",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708163",
+      "fdcId": 2708163,
+      "name": "Crackers, rice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708166",
+      "fdcId": 2708166,
+      "name": "Rice paper",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709077",
+      "fdcId": 2709077,
+      "name": "Rice pilaf",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2709078": {
+    "id": "usda-2709078",
+    "name": "Dirty rice",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 112.0,
+      "protein_g": 5.12,
+      "carb_g": 17.2,
+      "fat_g": 2.25,
+      "fiber_g": 0.6,
+      "sodium_mg": 316.0,
+      "potassium_mg": 85.0,
+      "calcium_mg": 15.0,
+      "iron_mg": 1.77,
+      "magnesium_mg": 9.0,
+      "zinc_mg": 0.78,
+      "vitamin_a_ug": 208.0,
+      "vitamin_c_mg": 5.4,
+      "folate_ug": 84.0,
+      "vitamin_b12_ug": 1.07,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:basmati:5": [
+    {
+      "id": "usda-2708407",
+      "fdcId": 2708407,
+      "name": "Rice, white, cooked, fat added, NS as to fat type",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708404",
+      "fdcId": 2708404,
+      "name": "Rice, white, cooked, made with oil",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708408",
+      "fdcId": 2708408,
+      "name": "Rice, white, cooked, no added fat",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708403",
+      "fdcId": 2708403,
+      "name": "Rice, white, cooked, NS as to fat",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708406",
+      "fdcId": 2708406,
+      "name": "Rice, white, cooked, made with margarine",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:rice:5": [
+    {
+      "id": "usda-2709078",
+      "fdcId": 2709078,
+      "name": "Dirty rice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709089",
+      "fdcId": 2709089,
+      "name": "Rice dressing",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708163",
+      "fdcId": 2708163,
+      "name": "Crackers, rice",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2708166",
+      "fdcId": 2708166,
+      "name": "Rice paper",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2709077",
+      "fdcId": 2709077,
+      "name": "Rice pilaf",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2709089": {
+    "id": "usda-2709089",
+    "name": "Rice dressing",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 110.0,
+      "protein_g": 1.98,
+      "carb_g": 17.6,
+      "fat_g": 3.29,
+      "fiber_g": 0.6,
+      "sodium_mg": 600.0,
+      "potassium_mg": 59.0,
+      "calcium_mg": 19.0,
+      "iron_mg": 0.92,
+      "magnesium_mg": 8.0,
+      "zinc_mg": 0.26,
+      "vitamin_a_ug": 31.0,
+      "vitamin_c_mg": 0.5,
+      "folate_ug": 57.0,
+      "vitamin_b12_ug": 0.02,
+      "vitamin_d_ug": 0.1
+    }
+  },
+  "food:171515": {
+    "id": "usda-171515",
+    "name": "Chicken breast tenders, breaded, uncooked",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 263.0,
+      "protein_g": 14.73,
+      "carb_g": 15.01,
+      "fat_g": 15.75,
+      "fiber_g": 1.1,
+      "sodium_mg": 536.0,
+      "potassium_mg": 214.0,
+      "calcium_mg": 19.0,
+      "iron_mg": 1.11,
+      "magnesium_mg": 23.0,
+      "zinc_mg": 0.78,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.8,
+      "folate_ug": 12.0,
+      "vitamin_b12_ug": 0.27,
+      "vitamin_d_ug": 0.2
+    }
+  },
+  "food:170923": {
+    "id": "usda-170923",
+    "name": "Spices, cumin seed",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 375.0,
+      "protein_g": 17.81,
+      "carb_g": 44.24,
+      "fat_g": 22.27,
+      "fiber_g": 10.5,
+      "sodium_mg": 168.0,
+      "potassium_mg": 1788.0,
+      "calcium_mg": 931.0,
+      "iron_mg": 66.36,
+      "magnesium_mg": 366.0,
+      "zinc_mg": 4.8,
+      "vitamin_a_ug": 64.0,
+      "vitamin_c_mg": 7.7,
+      "folate_ug": 10.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:ghee:5": [
+    {
+      "id": "usda-2710168",
+      "fdcId": 2710168,
+      "name": "Ghee, clarified butter",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-171314",
+      "fdcId": 171314,
+      "name": "Butter, Clarified butter (ghee)",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "food:2710168": {
+    "id": "usda-2710168",
+    "name": "Ghee, clarified butter",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 876.0,
+      "protein_g": 0.28,
+      "carb_g": 0.0,
+      "fat_g": 99.5,
+      "fiber_g": 0.0,
+      "sodium_mg": 2.0,
+      "potassium_mg": 5.0,
+      "calcium_mg": 4.0,
+      "iron_mg": 0.0,
+      "magnesium_mg": 0.0,
+      "zinc_mg": 0.01,
+      "vitamin_a_ug": 840.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 0.0,
+      "vitamin_b12_ug": 0.01,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:masoor dal:5": [
+    {
+      "id": "usda-2707427",
+      "fdcId": 2707427,
+      "name": "Dal",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:2707427": {
+    "id": "usda-2707427",
+    "name": "Dal",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 145.0,
+      "protein_g": 8.6,
+      "carb_g": 19.2,
+      "fat_g": 4.31,
+      "fiber_g": 7.5,
+      "sodium_mg": 309.0,
+      "potassium_mg": 352.0,
+      "calcium_mg": 19.0,
+      "iron_mg": 3.17,
+      "magnesium_mg": 34.0,
+      "zinc_mg": 1.21,
+      "vitamin_a_ug": 33.0,
+      "vitamin_c_mg": 1.4,
+      "folate_ug": 172.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:ragi flour:5": [
+    {
+      "id": "usda-170684",
+      "fdcId": 170684,
+      "name": "Arrowroot flour",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-173755",
+      "fdcId": 173755,
+      "name": "Carob flour",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2003586",
+      "fdcId": 2003586,
+      "name": "Flour, 00",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2261420",
+      "fdcId": 2261420,
+      "name": "Flour, almond",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-2512371",
+      "fdcId": 2512371,
+      "name": "Flour, amaranth",
+      "source": "usda",
+      "dataType": "Foundation"
+    }
+  ],
+  "search:cumin seeds:5": [
+    {
+      "id": "usda-170923",
+      "fdcId": 170923,
+      "name": "Spices, cumin seed",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170145",
+      "fdcId": 170145,
+      "name": "Seeds, breadfruit seeds, boiled",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170144",
+      "fdcId": 170144,
+      "name": "Seeds, breadfruit seeds, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170595",
+      "fdcId": 170595,
+      "name": "Seeds, breadfruit seeds, roasted",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170554",
+      "fdcId": 170554,
+      "name": "Seeds, chia seeds, dried",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:garam masala:5": [
+    {
+      "id": "usda-171181",
+      "fdcId": 171181,
+      "name": "SMART SOUP, Indian Bean Masala",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2709129",
+      "fdcId": 2709129,
+      "name": "Dosa, with filling",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    },
+    {
+      "id": "usda-2710506",
+      "fdcId": 2710506,
+      "name": "Tea, hot, with milk",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:rice flour:5": [
+    {
+      "id": "usda-1104812",
+      "fdcId": 1104812,
+      "name": "Flour, rice, brown",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-1104867",
+      "fdcId": 1104867,
+      "name": "Flour, rice, glutinous",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-168898",
+      "fdcId": 168898,
+      "name": "Rice flour, brown",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-790214",
+      "fdcId": 790214,
+      "name": "Flour, rice, white, unenriched",
+      "source": "usda",
+      "dataType": "Foundation"
+    },
+    {
+      "id": "usda-169714",
+      "fdcId": 169714,
+      "name": "Rice flour, white, unenriched",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "search:green chilies:5": [
+    {
+      "id": "usda-168577",
+      "fdcId": 168577,
+      "name": "Peppers, chili, green, canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170497",
+      "fdcId": 170497,
+      "name": "Peppers, hot chili, green, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170053",
+      "fdcId": 170053,
+      "name": "Tomatoes, red, ripe, canned, with green chilies",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171605",
+      "fdcId": 171605,
+      "name": "Sauce, chili, peppers, hot, immature green, canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2706483",
+      "fdcId": 2706483,
+      "name": "Chili with macaroni",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "search:red chili powder:5": [
+    {
+      "id": "usda-171319",
+      "fdcId": 171319,
+      "name": "Spices, chili powder",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170106",
+      "fdcId": 170106,
+      "name": "Peppers, hot chili, red, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170053",
+      "fdcId": 170053,
+      "name": "Tomatoes, red, ripe, canned, with green chilies",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171604",
+      "fdcId": 171604,
+      "name": "Sauce, peppers, hot, chili, mature red, canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170107",
+      "fdcId": 170107,
+      "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    }
+  ],
+  "food:168577": {
+    "id": "usda-168577",
+    "name": "Peppers, chili, green, canned",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 21.0,
+      "protein_g": 0.72,
+      "carb_g": 4.6,
+      "fat_g": 0.27,
+      "fiber_g": 1.7,
+      "sodium_mg": 397.0,
+      "potassium_mg": 113.0,
+      "calcium_mg": 36.0,
+      "iron_mg": 1.33,
+      "magnesium_mg": 4.0,
+      "zinc_mg": 0.09,
+      "vitamin_a_ug": 6.0,
+      "vitamin_c_mg": 34.2,
+      "folate_ug": 54.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "food:168898": {
+    "id": "usda-168898",
+    "name": "Rice flour, brown",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 363.0,
+      "protein_g": 7.23,
+      "carb_g": 76.48,
+      "fat_g": 2.78,
+      "fiber_g": 4.6,
+      "sodium_mg": 8.0,
+      "potassium_mg": 289.0,
+      "calcium_mg": 11.0,
+      "iron_mg": 1.98,
+      "magnesium_mg": 112.0,
+      "zinc_mg": 2.45,
+      "vitamin_a_ug": 0.0,
+      "vitamin_c_mg": 0.0,
+      "folate_ug": 16.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  },
+  "search:red chili:5": [
+    {
+      "id": "usda-170106",
+      "fdcId": 170106,
+      "name": "Peppers, hot chili, red, raw",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170053",
+      "fdcId": 170053,
+      "name": "Tomatoes, red, ripe, canned, with green chilies",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-171604",
+      "fdcId": 171604,
+      "name": "Sauce, peppers, hot, chili, mature red, canned",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-170107",
+      "fdcId": 170107,
+      "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids",
+      "source": "usda",
+      "dataType": "SR Legacy"
+    },
+    {
+      "id": "usda-2706483",
+      "fdcId": 2706483,
+      "name": "Chili with macaroni",
+      "source": "usda",
+      "dataType": "Survey (FNDDS)"
+    }
+  ],
+  "food:170106": {
+    "id": "usda-170106",
+    "name": "Peppers, hot chili, red, raw",
+    "names": [],
+    "form": "unknown",
+    "source": "usda",
+    "default_grams": 100.0,
+    "piece_grams": null,
+    "health_notes": "USDA FoodData Central record. Values are typically per 100 g. Not India-specific.",
+    "nutrients_per_100g": {
+      "energy_kcal": 40.0,
+      "protein_g": 1.87,
+      "carb_g": 8.81,
+      "fat_g": 0.44,
+      "fiber_g": 1.5,
+      "sodium_mg": 9.0,
+      "potassium_mg": 322.0,
+      "calcium_mg": 14.0,
+      "iron_mg": 1.03,
+      "magnesium_mg": 23.0,
+      "zinc_mg": 0.26,
+      "vitamin_a_ug": 48.0,
+      "vitamin_c_mg": 143.7,
+      "folate_ug": 23.0,
+      "vitamin_b12_ug": 0.0,
+      "vitamin_d_ug": 0.0
+    }
+  }
+}

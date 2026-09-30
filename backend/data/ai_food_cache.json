@@ -1,0 +1,546 @@
+{
+  "ragi roti": {
+    "food": {
+      "id": "ai-0d1adc6dde5b",
+      "name": "Ragi Roti",
+      "names": [
+        "ragi roti"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 60.0,
+      "piece_grams": 60.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. Prepared with ragi flour, water, and salt, cooked on a griddle with minimal or no oil.",
+      "nutrients_per_100g": {
+        "energy_kcal": 305.0,
+        "protein_g": 7.0,
+        "carb_g": 68.0,
+        "fat_g": 1.5,
+        "fiber_g": 10.5,
+        "sodium_mg": 250.0,
+        "potassium_mg": 250.0,
+        "calcium_mg": 320.0,
+        "iron_mg": 3.5,
+        "magnesium_mg": 120.0,
+        "zinc_mg": 2.0,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 25.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "ragi roti",
+    "confidence": "high",
+    "assumptions": [
+      "Prepared with ragi flour, water, and salt, cooked on a griddle with minimal or no oil."
+    ]
+  },
+  "methi thepla": {
+    "food": {
+      "id": "ai-ea5622427288",
+      "name": "Methi Thepla",
+      "names": [
+        "methi thepla"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 60.0,
+      "piece_grams": 60.0,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = 1 medium roti (60.0 g). Prepared with whole wheat flour, fresh fenugreek leaves, and minimal oil for cooking.",
+      "nutrients_per_100g": {
+        "energy_kcal": 330.0,
+        "protein_g": 9.167,
+        "carb_g": 50.0,
+        "fat_g": 11.667,
+        "fiber_g": 7.0,
+        "sodium_mg": 466.667,
+        "potassium_mg": 350.0,
+        "calcium_mg": 116.667,
+        "iron_mg": 3.167,
+        "magnesium_mg": 108.333,
+        "zinc_mg": 1.667,
+        "vitamin_a_ug": 58.333,
+        "vitamin_c_mg": 11.667,
+        "folate_ug": 43.333,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "methi thepla",
+    "confidence": "medium",
+    "assumptions": [
+      "Prepared with whole wheat flour, fresh fenugreek leaves, and minimal oil for cooking."
+    ],
+    "serving_description": "1 medium roti",
+    "serving_grams": 60.0
+  },
+  "green chili": {
+    "food": {
+      "id": "ai-4c78d0129444",
+      "name": "Green Chili",
+      "names": [
+        "green chili"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 8.0,
+      "piece_grams": 8.0,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = 1 medium green chili (8.0 g). Assumes a raw, medium-sized green chili, typically consumed as a condiment or ingredient.",
+      "nutrients_per_100g": {
+        "energy_kcal": 37.5,
+        "protein_g": 2.5,
+        "carb_g": 7.5,
+        "fat_g": 0.0,
+        "fiber_g": 1.25,
+        "sodium_mg": 12.5,
+        "potassium_mg": 325.0,
+        "calcium_mg": 12.5,
+        "iron_mg": 1.25,
+        "magnesium_mg": 25.0,
+        "zinc_mg": 0.0,
+        "vitamin_a_ug": 50.0,
+        "vitamin_c_mg": 125.0,
+        "folate_ug": 25.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "green chili",
+    "confidence": "medium",
+    "assumptions": [
+      "Assumes a raw, medium-sized green chili, typically consumed as a condiment or ingredient."
+    ],
+    "serving_description": "1 medium green chili",
+    "serving_grams": 8.0
+  },
+  "coriander leaves": {
+    "food": {
+      "id": "ai-08f8d88ddfc2",
+      "name": "Coriander Leaves",
+      "names": [
+        "coriander leaves"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 10.0,
+      "piece_grams": 10.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = a small bunch (garnish portion) (10.0 g). Fresh, raw coriander leaves, typically used as a garnish or ingredient in small quantities. Vitamin A is reported as Retinol Activity Equivalents (RAE) converted from beta-carotene.",
+      "nutrients_per_100g": {
+        "energy_kcal": 40.0,
+        "protein_g": 3.0,
+        "carb_g": 7.0,
+        "fat_g": 1.0,
+        "fiber_g": 3.0,
+        "sodium_mg": 50.0,
+        "potassium_mg": 330.0,
+        "calcium_mg": 180.0,
+        "iron_mg": 19.0,
+        "magnesium_mg": 70.0,
+        "zinc_mg": 1.0,
+        "vitamin_a_ug": 580.0,
+        "vitamin_c_mg": 140.0,
+        "folate_ug": 140.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "coriander leaves",
+    "confidence": "high",
+    "assumptions": [
+      "Fresh, raw coriander leaves, typically used as a garnish or ingredient in small quantities. Vitamin A is reported as Retinol Activity Equivalents (RAE) converted from beta-carotene."
+    ],
+    "serving_description": "a small bunch (garnish portion)",
+    "serving_grams": 10.0
+  },
+  "cumin seeds": {
+    "food": {
+      "id": "ai-a4ccc4025708",
+      "name": "Cumin seeds",
+      "names": [
+        "cumin seeds"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 2.0,
+      "piece_grams": 2.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1 teaspoon (2.0 g). Used as a spice for tempering or seasoning.",
+      "nutrients_per_100g": {
+        "energy_kcal": 460.0,
+        "protein_g": 20.0,
+        "carb_g": 45.0,
+        "fat_g": 20.0,
+        "fiber_g": 10.0,
+        "sodium_mg": 150.0,
+        "potassium_mg": 1800.0,
+        "calcium_mg": 950.0,
+        "iron_mg": 65.0,
+        "magnesium_mg": 350.0,
+        "zinc_mg": 5.0,
+        "vitamin_a_ug": 175.0,
+        "vitamin_c_mg": 10.0,
+        "folate_ug": 10.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "cumin seeds",
+    "confidence": "high",
+    "assumptions": [
+      "Used as a spice for tempering or seasoning."
+    ],
+    "serving_description": "1 teaspoon",
+    "serving_grams": 2.0
+  },
+  "boneless skinless chicken breast": {
+    "food": {
+      "id": "ai-78bcbf138de4",
+      "name": "Boneless, skinless chicken breast",
+      "names": [
+        "Boneless, skinless chicken breast"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 100.0,
+      "piece_grams": 100.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1 medium piece (100.0 g). Cooked, pan-fried or grilled with minimal added oil and seasoning. Sodium content can vary with added salt.",
+      "nutrients_per_100g": {
+        "energy_kcal": 165.0,
+        "protein_g": 31.0,
+        "carb_g": 0.0,
+        "fat_g": 3.6,
+        "fiber_g": 0.0,
+        "sodium_mg": 74.0,
+        "potassium_mg": 292.0,
+        "calcium_mg": 11.0,
+        "iron_mg": 0.5,
+        "magnesium_mg": 30.0,
+        "zinc_mg": 0.9,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 4.0,
+        "vitamin_b12_ug": 0.3,
+        "vitamin_d_ug": 0.1
+      }
+    },
+    "query": "Boneless, skinless chicken breast",
+    "confidence": "high",
+    "assumptions": [
+      "Cooked, pan-fried or grilled with minimal added oil and seasoning. Sodium content can vary with added salt."
+    ],
+    "serving_description": "1 medium piece",
+    "serving_grams": 100.0
+  },
+  "greek yogurt plain": {
+    "food": {
+      "id": "ai-2c80a152e1e1",
+      "name": "Greek Yogurt (plain)",
+      "names": [
+        "Greek Yogurt (plain)"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 150.0,
+      "piece_grams": 150.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1 serving (150.0 g). Plain Greek yogurt, no added sugar or flavorings, assumed to be low-to-medium fat content (approx. 3% fat per 100g).",
+      "nutrients_per_100g": {
+        "energy_kcal": 65.333,
+        "protein_g": 10.0,
+        "carb_g": 4.0,
+        "fat_g": 3.0,
+        "fiber_g": 0.0,
+        "sodium_mg": 45.333,
+        "potassium_mg": 145.333,
+        "calcium_mg": 120.0,
+        "iron_mg": 0.1,
+        "magnesium_mg": 12.0,
+        "zinc_mg": 0.533,
+        "vitamin_a_ug": 25.333,
+        "vitamin_c_mg": 0.533,
+        "folate_ug": 12.0,
+        "vitamin_b12_ug": 0.6,
+        "vitamin_d_ug": 0.133
+      }
+    },
+    "query": "Greek Yogurt (plain)",
+    "confidence": "high",
+    "assumptions": [
+      "Plain Greek yogurt, no added sugar or flavorings, assumed to be low-to-medium fat content (approx. 3% fat per 100g)."
+    ],
+    "serving_description": "1 serving",
+    "serving_grams": 150.0
+  },
+  "cucumber": {
+    "food": {
+      "id": "ai-868d099240a8",
+      "name": "Cucumber",
+      "names": [
+        "Cucumber"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 100.0,
+      "piece_grams": 100.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1/2 medium cucumber (100.0 g). Raw, unpeeled cucumber, typically eaten as a salad or snack.",
+      "nutrients_per_100g": {
+        "energy_kcal": 15.0,
+        "protein_g": 0.7,
+        "carb_g": 3.6,
+        "fat_g": 0.1,
+        "fiber_g": 1.5,
+        "sodium_mg": 2.0,
+        "potassium_mg": 147.0,
+        "calcium_mg": 16.0,
+        "iron_mg": 0.3,
+        "magnesium_mg": 13.0,
+        "zinc_mg": 0.2,
+        "vitamin_a_ug": 7.0,
+        "vitamin_c_mg": 2.8,
+        "folate_ug": 7.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Cucumber",
+    "confidence": "high",
+    "assumptions": [
+      "Raw, unpeeled cucumber, typically eaten as a salad or snack."
+    ],
+    "serving_description": "1/2 medium cucumber",
+    "serving_grams": 100.0
+  },
+  "fresh coriander leaves": {
+    "food": {
+      "id": "ai-a9e88b346d18",
+      "name": "Fresh Coriander Leaves",
+      "names": [
+        "Fresh Coriander Leaves"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 10.0,
+      "piece_grams": 10.0,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = Small bunch (garnish) (10.0 g). Raw, fresh leaves, typically used as garnish or ingredient. Vitamin A value derived from carotene content as per older ICMR data, assuming 12:1 conversion to RAE. Calories and macros disagree by 37% (41 kcal implied by macros), so treat this as rough.",
+      "nutrients_per_100g": {
+        "energy_kcal": 30.0,
+        "protein_g": 3.0,
+        "carb_g": 5.0,
+        "fat_g": 1.0,
+        "fiber_g": 3.0,
+        "sodium_mg": 50.0,
+        "potassium_mg": 340.0,
+        "calcium_mg": 180.0,
+        "iron_mg": 2.0,
+        "magnesium_mg": 70.0,
+        "zinc_mg": 1.0,
+        "vitamin_a_ug": 580.0,
+        "vitamin_c_mg": 140.0,
+        "folate_ug": 140.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Fresh Coriander Leaves",
+    "confidence": "medium",
+    "assumptions": [
+      "Raw, fresh leaves, typically used as garnish or ingredient. Vitamin A value derived from carotene content as per older ICMR data, assuming 12:1 conversion to RAE."
+    ],
+    "serving_description": "Small bunch (garnish)",
+    "serving_grams": 10.0
+  },
+  "lemon juice": {
+    "food": {
+      "id": "ai-b866f5eadcdf",
+      "name": "Lemon Juice",
+      "names": [
+        "Lemon Juice"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 200.0,
+      "piece_grams": 200.0,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = 1 glass (200 ml) (200.0 g). Prepared with water, juice of 1 medium lemon, 20g sugar, and 1g salt.",
+      "nutrients_per_100g": {
+        "energy_kcal": 45.0,
+        "protein_g": 0.15,
+        "carb_g": 11.5,
+        "fat_g": 0.0,
+        "fiber_g": 0.0,
+        "sodium_mg": 200.0,
+        "potassium_mg": 25.0,
+        "calcium_mg": 5.0,
+        "iron_mg": 0.05,
+        "magnesium_mg": 2.5,
+        "zinc_mg": 0.05,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 17.5,
+        "folate_ug": 2.5,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Lemon Juice",
+    "confidence": "medium",
+    "assumptions": [
+      "Prepared with water, juice of 1 medium lemon, 20g sugar, and 1g salt."
+    ],
+    "serving_description": "1 glass (200 ml)",
+    "serving_grams": 200.0
+  },
+  "cumin powder": {
+    "food": {
+      "id": "ai-ef1ac5959c6d",
+      "name": "Cumin Powder",
+      "names": [
+        "Cumin Powder"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 2.0,
+      "piece_grams": 2.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1 teaspoon (2.0 g). Pure cumin powder, no additives.",
+      "nutrients_per_100g": {
+        "energy_kcal": 400.0,
+        "protein_g": 20.0,
+        "carb_g": 45.0,
+        "fat_g": 20.0,
+        "fiber_g": 10.0,
+        "sodium_mg": 150.0,
+        "potassium_mg": 1800.0,
+        "calcium_mg": 950.0,
+        "iron_mg": 65.0,
+        "magnesium_mg": 350.0,
+        "zinc_mg": 5.0,
+        "vitamin_a_ug": 50.0,
+        "vitamin_c_mg": 10.0,
+        "folate_ug": 0.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Cumin Powder",
+    "confidence": "high",
+    "assumptions": [
+      "Pure cumin powder, no additives."
+    ],
+    "serving_description": "1 teaspoon",
+    "serving_grams": 2.0
+  },
+  "chaat masala": {
+    "food": {
+      "id": "ai-d10a4f7545ca",
+      "name": "Chaat Masala",
+      "names": [
+        "Chaat Masala"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 2.5,
+      "piece_grams": 2.5,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = 1 teaspoon (for seasoning) (2.5 g). Homemade blend, typical ingredients including black salt and amchur, used as a seasoning.",
+      "nutrients_per_100g": {
+        "energy_kcal": 320.0,
+        "protein_g": 12.0,
+        "carb_g": 52.0,
+        "fat_g": 12.0,
+        "fiber_g": 20.0,
+        "sodium_mg": 10000.0,
+        "potassium_mg": 1520.0,
+        "calcium_mg": 200.0,
+        "iron_mg": 12.0,
+        "magnesium_mg": 160.0,
+        "zinc_mg": 2.0,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 40.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Chaat Masala",
+    "confidence": "medium",
+    "assumptions": [
+      "Homemade blend, typical ingredients including black salt and amchur, used as a seasoning."
+    ],
+    "serving_description": "1 teaspoon (for seasoning)",
+    "serving_grams": 2.5
+  },
+  "ragi flour": {
+    "food": {
+      "id": "ai-7473a64faec0",
+      "name": "Ragi Roti",
+      "names": [
+        "Ragi Flour"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 60.0,
+      "piece_grams": 60.0,
+      "health_notes": "AI estimate (high confidence), not measured lab data. One serving = 1 medium roti (60.0 g). Made from approximately 35g ragi flour and water, cooked without oil.",
+      "nutrients_per_100g": {
+        "energy_kcal": 191.667,
+        "protein_g": 4.5,
+        "carb_g": 42.333,
+        "fat_g": 0.833,
+        "fiber_g": 6.667,
+        "sodium_mg": 6.667,
+        "potassium_mg": 238.333,
+        "calcium_mg": 200.0,
+        "iron_mg": 2.333,
+        "magnesium_mg": 80.0,
+        "zinc_mg": 1.333,
+        "vitamin_a_ug": 0.0,
+        "vitamin_c_mg": 0.0,
+        "folate_ug": 20.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Ragi Flour",
+    "confidence": "high",
+    "assumptions": [
+      "Made from approximately 35g ragi flour and water, cooked without oil."
+    ],
+    "serving_description": "1 medium roti",
+    "serving_grams": 60.0
+  },
+  "garam masala": {
+    "food": {
+      "id": "ai-0329d01c2605",
+      "name": "Garam Masala",
+      "names": [
+        "Garam Masala"
+      ],
+      "form": "ai estimate",
+      "source": "ai_estimate",
+      "default_grams": 2.5,
+      "piece_grams": 2.5,
+      "health_notes": "AI estimate (medium confidence), not measured lab data. One serving = 1 teaspoon (approx.) (2.5 g). Homemade blend of common whole spices (e.g., cumin, coriander, cardamom, black pepper, cinnamon, cloves), ground, no added salt or oil.",
+      "nutrients_per_100g": {
+        "energy_kcal": 320.0,
+        "protein_g": 12.0,
+        "carb_g": 44.0,
+        "fat_g": 12.0,
+        "fiber_g": 24.0,
+        "sodium_mg": 40.0,
+        "potassium_mg": 40.0,
+        "calcium_mg": 160.0,
+        "iron_mg": 16.0,
+        "magnesium_mg": 76.0,
+        "zinc_mg": 2.4,
+        "vitamin_a_ug": 40.0,
+        "vitamin_c_mg": 4.0,
+        "folate_ug": 8.0,
+        "vitamin_b12_ug": 0.0,
+        "vitamin_d_ug": 0.0
+      }
+    },
+    "query": "Garam Masala",
+    "confidence": "medium",
+    "assumptions": [
+      "Homemade blend of common whole spices (e.g., cumin, coriander, cardamom, black pepper, cinnamon, cloves), ground, no added salt or oil."
+    ],
+    "serving_description": "1 teaspoon (approx.)",
+    "serving_grams": 2.5
+  }
+}

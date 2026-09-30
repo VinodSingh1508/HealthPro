@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Test",
+    "sex": "female",
+    "age": 32,
+    "height_cm": 162.0,
+    "weight_kg": 58.0,
+    "activity": "light",
+    "conditions": [
+      "anemia"
+    ],
+    "id": "5a9ea5c5-644a-4a23-91f4-c618065ab4e4",
+    "diet_plan": {
+      "profile_key": "{\"activity\": \"light\", \"age\": 32, \"conditions\": [\"anemia\"], \"ethnicity\": \"\", \"height_cm\": 162.0, \"nationality\": \"\", \"sex\": \"female\", \"weight_kg\": 58.0}",
+      "basis": "Nationality and ethnicity are blank, so this is a general pattern. Add them on the person to match a customary cuisine.",
+      "meals": [
+        "Each main meal: one grain, one protein food, and one vegetable.",
+        "Fruit once a day, and water rather than a sweet drink."
+      ],
+      "diet_chart": {
+        "schedule": [
+          {
+            "meal": "On waking",
+            "time": "06:30",
+            "options": [
+              "Water; no special detox drink is needed",
+              "Warm water or unsweetened herbal drink"
+            ]
+          },
+          {
+            "meal": "Breakfast",
+            "time": "08:00",
+            "options": [
+              "Vegetable oats or porridge, 1 bowl, plus 1 boiled egg or ½ cup curd",
+              "2 whole-grain toasts with 1 egg or ½ cup cooked beans",
+              "Vegetable poha, 1 bowl, with ½ cup plain curd"
+            ]
+          },
+          {
+            "meal": "Mid-morning",
+            "time": "11:00",
+            "options": [
+              "1 whole fruit",
+              "1 cup plain buttermilk or unsweetened yogurt",
+              "A small handful (20–25 g) of unsalted nuts"
+            ]
+          },
+          {
+            "meal": "Lunch",
+            "time": "13:30",
+            "options": [
+              "2 small whole-grain rotis, 1 cup dal, and 1 cup vegetables",
+              "1 cup cooked rice, 1 palm-sized protein, and 1 cup vegetables",
+              "1½ cups bean-and-vegetable bowl with a small whole-grain serving"
+            ]
+          },
+          {
+            "meal": "Evening snack",
+            "time": "16:30",
+            "options": [
+              "Tea or coffee without sugar, with 25 g roasted chana",
+              "1 whole fruit with 10–15 g nuts",
+              "1 cup unsweetened yogurt or buttermilk"
+            ]
+          },
+          {
+            "meal": "Dinner",
+            "time": "19:30",
+            "options": [
+              "2 small rotis, 1 cup dal or lean protein, and 1 cup vegetables",
+              "¾ cup cooked rice, 1 cup protein curry, and 1 cup vegetables",
+              "Vegetable soup plus a palm-sized protein and 1 small roti"
+            ]
+          }
+        ],
+        "notes": [
+          "Add lemon or another vitamin C food to lunch or dinner; keep tea/coffee one hour away."
+        ],
+        "timing_note": "Move all times to fit the person's routine, while keeping meals roughly 3–4 hours apart and dinner about 2–3 hours before sleep."
+      },
+      "include": [
+        {
+          "item": "Vegetables",
+          "amount": "2 to 3 servings a day",
+          "reason": "The most reliable way to cover micronutrients."
+        },
+        {
+          "item": "Legumes, eggs, dairy, or a palm of meat or fish",
+          "amount": "a protein food at two meals",
+          "reason": "Covers protein without a large fried portion."
+        },
+        {
+          "item": "Whole grains or millet",
+          "amount": "the grain portion of two meals",
+          "reason": "More fiber than a plate of only polished rice."
+        },
+        {
+          "item": "Dal, greens, sprouts, or meat, with a vitamin C food",
+          "amount": "an iron-containing food at two meals",
+          "reason": "Iron target is higher because anemia is listed."
+        },
+        {
+          "item": "Water",
+          "amount": "through the day, to thirst",
+          "reason": "Replaces sugary drinks without adding a nutrient target."
+        }
+      ],
+      "moderate": [
+        {
+          "item": "Added oil or ghee",
+          "amount": "up to 21 g a day (about 4 teaspoons)",
+          "reason": "Leaves room for the fat already in dals, nuts, dairy, and meat."
+        },
+        {
+          "item": "Salt",
+          "amount": "up to 5.2 g of salt a day (about 1.0 teaspoons), including salt already in the food",
+          "reason": "Set from this person's sodium target."
+        },
+        {
+          "item": "Fried snacks and sweets",
+          "amount": "a few times a week, not every day",
+          "reason": "Restaurant and festive portions sit outside the oil and sugar room above."
+        },
+        {
+          "item": "Tea and coffee",
+          "amount": "not with the iron-rich meal; leave an hour either side",
+          "reason": "They reduce how much iron that meal provides."
+        }
+      ],
+      "avoid": [],
+      "disclaimer": "Educational pattern for personal tracking, not a prescription. Ethnicity here only points at customary food."
+    }
+  }
+]

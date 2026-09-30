@@ -1,0 +1,234 @@
+{
+    "id":  "ff805466-9735-446c-9cf1-407fd145dec0",
+    "name":  "Ragi Roti (Finger Millet Flatbread)",
+    "description":  "A healthy and rustic Indian flatbread made from ragi flour, often mixed with finely chopped vegetables and spices, served as a nutritious meal.",
+    "servings":  2,
+    "ingredients":  [
+                        {
+                            "name":  "ragi flour",
+                            "quantity":  1.0,
+                            "unit":  "cup",
+                            "grams":  110.0,
+                            "is_extra":  false,
+                            "notes":  ""
+                        },
+                        {
+                            "name":  "onion",
+                            "quantity":  1.0,
+                            "unit":  "small",
+                            "grams":  100.0,
+                            "is_extra":  false,
+                            "notes":  "finely chopped"
+                        },
+                        {
+                            "name":  "curd",
+                            "quantity":  3.0,
+                            "unit":  "tablespoons",
+                            "grams":  45.0,
+                            "is_extra":  false,
+                            "notes":  ""
+                        },
+                        {
+                            "name":  "oil",
+                            "quantity":  2.0,
+                            "unit":  "tablespoons",
+                            "grams":  30.0,
+                            "is_extra":  false,
+                            "notes":  "for cooking"
+                        },
+                        {
+                            "name":  "green chili",
+                            "quantity":  1.0,
+                            "unit":  "medium",
+                            "grams":  5.0,
+                            "is_extra":  true,
+                            "notes":  "finely chopped"
+                        },
+                        {
+                            "name":  "ginger",
+                            "quantity":  1.0,
+                            "unit":  "teaspoon",
+                            "grams":  5.0,
+                            "is_extra":  true,
+                            "notes":  "grated"
+                        },
+                        {
+                            "name":  "coriander leaves",
+                            "quantity":  2.0,
+                            "unit":  "tablespoons",
+                            "grams":  5.0,
+                            "is_extra":  true,
+                            "notes":  "finely chopped"
+                        },
+                        {
+                            "name":  "salt",
+                            "quantity":  0.5,
+                            "unit":  "teaspoon",
+                            "grams":  3.0,
+                            "is_extra":  true,
+                            "notes":  "or to taste"
+                        },
+                        {
+                            "name":  "water",
+                            "quantity":  0.5,
+                            "unit":  "cup",
+                            "grams":  120.0,
+                            "is_extra":  true,
+                            "notes":  "as needed for kneading"
+                        },
+                        {
+                            "name":  "cumin seeds",
+                            "quantity":  0.5,
+                            "unit":  "teaspoon",
+                            "grams":  2.0,
+                            "is_extra":  true,
+                            "notes":  "optional"
+                        }
+                    ],
+    "preparation":  [
+                        "Finely chop the onion, green chili, and coriander leaves. Grate the ginger.",
+                        "In a large mixing bowl, combine the ragi flour, chopped onion, green chili, grated ginger, chopped coriander leaves, salt, cumin seeds (if using), and curd.",
+                        "Gradually add water, a little at a time, and knead the mixture to form a soft, pliable dough. The dough should not be too sticky or too dry."
+                    ],
+    "cooking_methods":  [
+                            {
+                                "mode":  "Stovetop / gas",
+                                "applicable":  true,
+                                "steps":  [
+                                              "Heat a tawa or griddle over medium heat.",
+                                              "Take a small portion of the dough (about the size of a golf ball) and place it on a lightly greased surface, such as parchment paper, a banana leaf, or a plastic sheet.",
+                                              "Gently flatten the dough using your palm or a rolling pin, forming a thin, round roti of about 4-6 inches in diameter. You can dip your hands in water to prevent sticking.",
+                                              "Carefully transfer the flattened roti to the hot tawa.",
+                                              "Cook for 1-2 minutes until small bubbles appear on the surface. Apply a few drops of oil around the edges.",
+                                              "Flip the roti and cook the other side for another 1-2 minutes, pressing gently with a spatula to ensure even cooking and light browning.",
+                                              "Remove the cooked roti from the tawa when it is cooked through and has light brown spots. Repeat the process with the remaining dough."
+                                          ]
+                            },
+                            {
+                                "mode":  "Pressure cooker",
+                                "applicable":  false,
+                                "steps":  [
+
+                                          ]
+                            },
+                            {
+                                "mode":  "Air fryer",
+                                "applicable":  false,
+                                "steps":  [
+
+                                          ]
+                            },
+                            {
+                                "mode":  "Microwave",
+                                "applicable":  false,
+                                "steps":  [
+
+                                          ]
+                            }
+                        ],
+    "source":  "gemini",
+    "nutrition":  {
+                      "total_recipe":  {
+                                           "energy_kcal":  471.275,
+                                           "protein_g":  5.093,
+                                           "carb_g":  107.59,
+                                           "fat_g":  2.302,
+                                           "fiber_g":  5.942,
+                                           "sodium_mg":  1175.865,
+                                           "potassium_mg":  306.05,
+                                           "calcium_mg":  139.725,
+                                           "iron_mg":  3.416,
+                                           "magnesium_mg":  36.25,
+                                           "zinc_mg":  0.686,
+                                           "vitamin_a_ug":  35.0,
+                                           "vitamin_c_mg":  21.74,
+                                           "folate_ug":  54.95,
+                                           "vitamin_b12_ug":  0.0,
+                                           "vitamin_d_ug":  0.0
+                                       },
+                      "per_serving":  {
+                                          "energy_kcal":  235.637,
+                                          "protein_g":  2.546,
+                                          "carb_g":  53.795,
+                                          "fat_g":  1.151,
+                                          "fiber_g":  2.971,
+                                          "sodium_mg":  587.933,
+                                          "potassium_mg":  153.025,
+                                          "calcium_mg":  69.862,
+                                          "iron_mg":  1.708,
+                                          "magnesium_mg":  18.125,
+                                          "zinc_mg":  0.343,
+                                          "vitamin_a_ug":  17.5,
+                                          "vitamin_c_mg":  10.87,
+                                          "folate_ug":  27.475,
+                                          "vitamin_b12_ug":  0.0,
+                                          "vitamin_d_ug":  0.0
+                                      },
+                      "servings":  2,
+                      "ingredient_matches":  [
+                                                 {
+                                                     "ingredient":  "ragi flour",
+                                                     "grams":  110.0,
+                                                     "matched_food":  "Arrowroot flour",
+                                                     "source":  "usda"
+                                                 },
+                                                 {
+                                                     "ingredient":  "onion",
+                                                     "grams":  100.0,
+                                                     "matched_food":  "Onions, raw",
+                                                     "source":  "usda"
+                                                 },
+                                                 {
+                                                     "ingredient":  "curd",
+                                                     "grams":  45.0,
+                                                     "matched_food":  "Soybean curd",
+                                                     "source":  "usda"
+                                                 },
+                                                 {
+                                                     "ingredient":  "oil",
+                                                     "grams":  30.0,
+                                                     "matched_food":  "Oil, canola",
+                                                     "source":  "usda"
+                                                 },
+                                                 {
+                                                     "ingredient":  "green chili",
+                                                     "grams":  5.0,
+                                                     "matched_food":  "Green Chili",
+                                                     "source":  "ai_estimate"
+                                                 },
+                                                 {
+                                                     "ingredient":  "ginger",
+                                                     "grams":  5.0,
+                                                     "matched_food":  "Tea, ginger",
+                                                     "source":  "usda"
+                                                 },
+                                                 {
+                                                     "ingredient":  "coriander leaves",
+                                                     "grams":  5.0,
+                                                     "matched_food":  "Coriander Leaves",
+                                                     "source":  "ai_estimate"
+                                                 },
+                                                 {
+                                                     "ingredient":  "salt",
+                                                     "grams":  3.0,
+                                                     "matched_food":  "Salt, table",
+                                                     "source":  "built_in"
+                                                 },
+                                                 {
+                                                     "ingredient":  "water",
+                                                     "grams":  120.0,
+                                                     "matched_food":  "Water",
+                                                     "source":  "built_in"
+                                                 },
+                                                 {
+                                                     "ingredient":  "cumin seeds",
+                                                     "grams":  2.0,
+                                                     "matched_food":  "Cumin seeds",
+                                                     "source":  "ai_estimate"
+                                                 }
+                                             ],
+                      "note":  "Calculated from ingredient weights; recipe yield and cooking losses are estimates."
+                  },
+    "created_at":  "2026-09-21T07:47:18.226829+00:00",
+    "updated_at":  "2026-09-21T07:47:18.226829+00:00"
+}

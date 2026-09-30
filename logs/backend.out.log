@@ -1,0 +1,8 @@
+INFO:     127.0.0.1:4909 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2951 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2952 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2268 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2269 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1625 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1626 - "GET /api/people HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4267 - "POST /api/people/5a9ea5c5-644a-4a23-91f4-c618065ab4e4/diet-plan HTTP/1.1" 200 OK
